@@ -1,0 +1,8 @@
+Neyðarsimi 1.5 
+dagssetningur: 4 júli 2017
+
+-Þarf að uppfæra fyrir neyðarsíma 1.6-
+* Trial version 
+* Leyfisnúmer
+* talningsdagur fyrir notkun hugbúngaðar 
+
