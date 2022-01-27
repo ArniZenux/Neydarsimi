@@ -1,0 +1,2 @@
+# Neydarsimi
+Neyðarsími fyrir túlkaþjónustu 
